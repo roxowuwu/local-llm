@@ -8,26 +8,26 @@ fi
 
 case $1 in
 
-  # 📚 Study Mode
+  
   study)
     echo "Entering Study Mode..."
     google-chrome &
     code &
     ;;
 
-  # 🎮 Game Mode
+  
   game)
     echo "Entering Game Mode..."
     steam &
     ;;
 
-  # 🎬 Entertainment Mode
+  
   entertainment)
     echo "Entering Entertainment Mode..."
     spotify &
     ;;
 
-  # 🔊 Mute
+  
   mute)
     echo "Muting system..."
 
@@ -40,7 +40,7 @@ case $1 in
     fi
     ;;
 
-  # 🔊 Unmute
+  
   unmute)
     echo "Unmuting system..."
 
@@ -53,13 +53,13 @@ case $1 in
     fi
     ;;
 
-  # 💻 System Info
+  
   info)
     echo "System Information:"
     uname -a
     ;;
 
-  # 🙋 Greet
+  
   greet)
     echo "Hello $2"
     ;;
@@ -109,7 +109,7 @@ open)
     echo "No matching application found"
   fi
   ;;
-  # ❌ Unknown command
+  
   *)
     echo "Usage: ./bot.sh [study|game|entertainment|mute|unmute|info|greet]"
     ;;
