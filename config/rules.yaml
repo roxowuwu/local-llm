@@ -1,0 +1,79 @@
+rules:
+  # Web
+  - match: ["open youtube", "youtube"]
+    action: open_url
+    url: "https://youtube.com"
+
+  - match: ["open google", "google"]
+    action: open_url
+    url: "https://google.com"
+
+  - match: ["open github", "github"]
+    action: open_url
+    url: "https://github.com"
+
+  - match: ["open gmail", "gmail"]
+    action: open_url
+    url: "https://mail.google.com"
+
+  - match: ["search {query}", "search for {query}"]
+    action: web_search
+
+  # Apps
+  - match: ["open spotify", "spotify"]
+    action: open_app
+    app_name: spotify
+
+  - match: ["open telegram", "telegram"]
+    action: open_app
+    app_name: telegram-desktop
+
+  - match: ["open firefox", "firefox", "open browser"]
+    action: open_app
+    app_name: firefox
+
+  - match: ["open discord", "discord"]
+    action: open_app
+    app_name: discord
+
+  - match: ["open vlc", "vlc"]
+    action: open_app
+    app_name: vlc
+
+  - match: ["open terminal", "terminal"]
+    action: open_app
+    app_name: gnome-terminal
+
+  - match: ["open settings", "settings"]
+    action: open_app
+    app_name: gnome-control-center
+
+  - match: ["open files", "file manager"]
+    action: open_app
+    app_name: nautilus
+
+  # Media
+  - match: ["play {query}", "put on {query}"]
+    action: media_play
+
+  - match: ["pause", "pause music", "stop music"]
+    action: media_pause
+
+  - match: ["next", "skip", "next song"]
+    action: media_skip
+
+  # System
+  - match: ["dark mode", "enable dark mode"]
+    action: set_dark_mode
+
+  - match: ["light mode", "enable light mode"]
+    action: set_light_mode
+
+  - match: ["empty trash", "clear trash"]
+    action: empty_trash
+
+  - match: ["system info", "disk usage", "storage"]
+    action: system_info
+
+  - match: ["repeat", "again", "do that again"]
+    action: repeat

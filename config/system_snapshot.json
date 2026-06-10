@@ -1,0 +1,515 @@
+{
+    "timestamp": 1777448664,
+    "os": "Ubuntu 24.04.4 LTS",
+    "hostname": "roxowuwu-Vivobook-ASUSLaptop-M6500QC-M6500QC",
+    "installed_apps": [
+        {
+            "name": "quit",
+            "exec": "/usr/bin/remmina"
+        },
+        {
+            "name": "appearance",
+            "exec": "gnome-control-center"
+        },
+        {
+            "name": "report a problem...",
+            "exec": "/usr/share/apport/apport-gtk"
+        },
+        {
+            "name": "vim",
+            "exec": "vim"
+        },
+        {
+            "name": "python (v3.12)",
+            "exec": "/usr/bin/python3.12"
+        },
+        {
+            "name": "document scanner",
+            "exec": "simple-scan"
+        },
+        {
+            "name": "ibus preferences",
+            "exec": "ibus-setup"
+        },
+        {
+            "name": "initial setup",
+            "exec": "/usr/libexec/gnome-initial-setup-wrapper"
+        },
+        {
+            "name": "print preview",
+            "exec": "evince-previewer"
+        },
+        {
+            "name": "new incognito window",
+            "exec": "google-chrome"
+        },
+        {
+            "name": "bluetooth",
+            "exec": "gnome-control-center"
+        },
+        {
+            "name": "disk image mounter",
+            "exec": "gnome-disk-image-mounter"
+        },
+        {
+            "name": "gnome remote desktop handover daemon",
+            "exec": "/usr/libexec/gnome-remote-desktop-daemon"
+        },
+        {
+            "name": "view file",
+            "exec": "/usr/bin/gcr-viewer"
+        },
+        {
+            "name": "ibus table setup",
+            "exec": "/usr/libexec/ibus-setup-table"
+        },
+        {
+            "name": "displays",
+            "exec": "gnome-control-center"
+        },
+        {
+            "name": "new window",
+            "exec": "evince"
+        },
+        {
+            "name": "wi-fi",
+            "exec": "gnome-control-center"
+        },
+        {
+            "name": "new document",
+            "exec": "libreoffice"
+        },
+        {
+            "name": "input method",
+            "exec": "im-config"
+        },
+        {
+            "name": "clocks",
+            "exec": "gnome-clocks"
+        },
+        {
+            "name": "startup applications",
+            "exec": "gnome-session-properties"
+        },
+        {
+            "name": "sharing",
+            "exec": "gnome-control-center"
+        },
+        {
+            "name": "emoji choice",
+            "exec": "ibus"
+        },
+        {
+            "name": "run software",
+            "exec": "nautilus-autorun-software"
+        },
+        {
+            "name": "mobile network",
+            "exec": "gnome-control-center"
+        },
+        {
+            "name": "notifications",
+            "exec": "gnome-control-center"
+        },
+        {
+            "name": "texinfo",
+            "exec": "info"
+        },
+        {
+            "name": "gnome shell",
+            "exec": "/usr/bin/gnome-shell"
+        },
+        {
+            "name": "keyboard layout",
+            "exec": "gkbd-keyboard-display"
+        },
+        {
+            "name": "settings",
+            "exec": "gnome-control-center"
+        },
+        {
+            "name": "events and tasks reminders",
+            "exec": "/usr/libexec/evolution-data-server/evolution-alarm-notify"
+        },
+        {
+            "name": "tecla",
+            "exec": "tecla"
+        },
+        {
+            "name": "preferences",
+            "exec": "gnome-terminal"
+        },
+        {
+            "name": "idle (using python-3.12)",
+            "exec": "/usr/bin/idle-python3.12"
+        },
+        {
+            "name": "start transmission minimized",
+            "exec": "transmission-gtk"
+        },
+        {
+            "name": "install steam",
+            "exec": "/usr/games/steam"
+        },
+        {
+            "name": "livepatch",
+            "exec": "/usr/bin/software-properties-gtk"
+        },
+        {
+            "name": "evolution data server oauth2 handler",
+            "exec": "/usr/libexec/evolution-data-server/evolution-oauth2-handler"
+        },
+        {
+            "name": "new inprivate window",
+            "exec": "/usr/bin/microsoft-edge-stable"
+        },
+        {
+            "name": "winetricks",
+            "exec": "winetricks"
+        },
+        {
+            "name": "disks",
+            "exec": "gnome-disks"
+        },
+        {
+            "name": "libreoffice xslt based filters",
+            "exec": "libreoffice"
+        },
+        {
+            "name": "calendar",
+            "exec": "gnome-calendar"
+        },
+        {
+            "name": "gnome system monitor",
+            "exec": "gnome-system-monitor"
+        },
+        {
+            "name": "printers",
+            "exec": "gnome-control-center"
+        },
+        {
+            "name": "portal",
+            "exec": "/usr/libexec/xdg-desktop-portal-gnome"
+        },
+        {
+            "name": "additional drivers",
+            "exec": "/usr/bin/software-properties-gtk"
+        },
+        {
+            "name": "region & language",
+            "exec": "gnome-control-center"
+        },
+        {
+            "name": "remmina edit",
+            "exec": "/usr/bin/remmina"
+        },
+        {
+            "name": "shotwell authentication helper",
+            "exec": "/usr/libexec/shotwell/shotwell-authenticator"
+        },
+        {
+            "name": "new formula",
+            "exec": "libreoffice"
+        },
+        {
+            "name": "file roller",
+            "exec": "file-roller"
+        },
+        {
+            "name": "new window",
+            "exec": "gnome-text-editor"
+        },
+        {
+            "name": "calculator",
+            "exec": "gnome-calculator"
+        },
+        {
+            "name": "multitasking",
+            "exec": "gnome-control-center"
+        },
+        {
+            "name": "users",
+            "exec": "gnome-control-center"
+        },
+        {
+            "name": "qsynth",
+            "exec": "qsynth"
+        },
+        {
+            "name": "passwords and keys",
+            "exec": "seahorse"
+        },
+        {
+            "name": "new incognito window",
+            "exec": "/usr/bin/google-chrome-stable"
+        },
+        {
+            "name": "fullscreen",
+            "exec": "totem"
+        },
+        {
+            "name": "help",
+            "exec": "yelp"
+        },
+        {
+            "name": "idle",
+            "exec": "/usr/bin/idle"
+        },
+        {
+            "name": "mouse & touchpad",
+            "exec": "gnome-control-center"
+        },
+        {
+            "name": "geoclue demo agent",
+            "exec": "/usr/libexec/geoclue-2.0/demos/agent"
+        },
+        {
+            "name": "fonts",
+            "exec": "gnome-font-viewer"
+        },
+        {
+            "name": "disk image writer",
+            "exec": "gnome-disks"
+        },
+        {
+            "name": "image viewer",
+            "exec": "eog"
+        },
+        {
+            "name": "apps",
+            "exec": "gnome-control-center"
+        },
+        {
+            "name": "new window",
+            "exec": "nautilus"
+        },
+        {
+            "name": "portal",
+            "exec": "/usr/libexec/xdg-desktop-portal-gtk"
+        },
+        {
+            "name": "advanced network configuration",
+            "exec": "nm-connection-editor"
+        },
+        {
+            "name": "search",
+            "exec": "gnome-control-center"
+        },
+        {
+            "name": "accessibility",
+            "exec": "gnome-control-center"
+        },
+        {
+            "name": "power",
+            "exec": "gnome-control-center"
+        },
+        {
+            "name": "htop",
+            "exec": "htop"
+        },
+        {
+            "name": "handler for snap:// uris",
+            "exec": "/usr/bin/snap"
+        },
+        {
+            "name": "date & time",
+            "exec": "gnome-control-center"
+        },
+        {
+            "name": "shotwell viewer",
+            "exec": "shotwell"
+        },
+        {
+            "name": "ubuntu desktop",
+            "exec": "gnome-control-center"
+        },
+        {
+            "name": "language support",
+            "exec": "/usr/bin/gnome-language-selector"
+        },
+        {
+            "name": "remmina-gnome",
+            "exec": "remmina-gnome"
+        },
+        {
+            "name": "gnome oauth2 handler",
+            "exec": "/usr/libexec/goa-oauth2-handler"
+        },
+        {
+            "name": "extensions",
+            "exec": "false"
+        },
+        {
+            "name": "back up",
+            "exec": "deja-dup"
+        },
+        {
+            "name": "camera",
+            "exec": "snapshot"
+        },
+        {
+            "name": "lutris",
+            "exec": "lutris"
+        },
+        {
+            "name": "nvidia x server settings",
+            "exec": "/usr/bin/nvidia-settings"
+        },
+        {
+            "name": "network",
+            "exec": "gnome-control-center"
+        },
+        {
+            "name": "contacts",
+            "exec": "thunderbird"
+        },
+        {
+            "name": "new drawing",
+            "exec": "libreoffice"
+        },
+        {
+            "name": "snapd user session agent",
+            "exec": "/bin/false"
+        },
+        {
+            "name": "system",
+            "exec": "gnome-control-center"
+        },
+        {
+            "name": "wacom tablet",
+            "exec": "gnome-control-center"
+        },
+        {
+            "name": "sound",
+            "exec": "gnome-control-center"
+        },
+        {
+            "name": "software updater",
+            "exec": "/usr/bin/update-manager"
+        },
+        {
+            "name": "system monitor",
+            "exec": "gnome-system-monitor"
+        },
+        {
+            "name": "new inprivate window",
+            "exec": "/usr/bin/microsoft-edge-stable"
+        },
+        {
+            "name": "new spreadsheet",
+            "exec": "libreoffice"
+        },
+        {
+            "name": "online accounts",
+            "exec": "gnome-control-center"
+        },
+        {
+            "name": "startup disk creator",
+            "exec": "usb-creator-gtk"
+        },
+        {
+            "name": "logs",
+            "exec": "gnome-logs"
+        },
+        {
+            "name": "keyboard",
+            "exec": "gnome-control-center"
+        },
+        {
+            "name": "access prompt",
+            "exec": "/usr/libexec/gcr-prompter"
+        },
+        {
+            "name": "networkmanager applet",
+            "exec": "nm-applet"
+        },
+        {
+            "name": "power statistics",
+            "exec": "gnome-power-statistics"
+        },
+        {
+            "name": "emoji choice",
+            "exec": "/usr/libexec/ibus-extension-gtk3"
+        },
+        {
+            "name": "stop & quit",
+            "exec": "rhythmbox-client"
+        },
+        {
+            "name": "color",
+            "exec": "gnome-control-center"
+        },
+        {
+            "name": "software & updates",
+            "exec": "software-properties-gtk"
+        },
+        {
+            "name": "rhythmbox",
+            "exec": "rhythmbox-client"
+        },
+        {
+            "name": "about",
+            "exec": "gnome-control-center"
+        },
+        {
+            "name": "math",
+            "exec": "libreoffice"
+        },
+        {
+            "name": "terminal preferences",
+            "exec": "gnome-terminal"
+        },
+        {
+            "name": "privacy & security",
+            "exec": "gnome-control-center"
+        },
+        {
+            "name": "characters",
+            "exec": "/usr/bin/gnome-characters"
+        },
+        {
+            "name": "new presentation",
+            "exec": "libreoffice"
+        },
+        {
+            "name": "ibus wayland",
+            "exec": "/usr/libexec/ibus-ui-gtk3"
+        },
+        {
+            "name": "disk usage analyzer",
+            "exec": "baobab"
+        },
+        {
+            "name": "zenity",
+            "exec": "zenity"
+        },
+        {
+            "name": "reactivate hp laserjet 1018/1020 after reloading paper",
+            "exec": "/usr/share/foo2zjs/hplj10xx_gui.tcl"
+        },
+        {
+            "name": "manage different profiles in shotwell",
+            "exec": "shotwell"
+        },
+        {
+            "name": "rygel",
+            "exec": "rygel"
+        },
+        {
+            "name": "bluetooth transfer",
+            "exec": "bluetooth-sendto"
+        }
+    ],
+    "storage_summary": {
+        "total": "472G",
+        "used": "309G",
+        "free": "139G",
+        "usage": "69%"
+    },
+    "home_size": "Unknown",
+    "top_space_users": [],
+    "config_locations": {
+        "home": "/home/yourname",
+        "apps_dir": "/usr/share/applications"
+    }
+}

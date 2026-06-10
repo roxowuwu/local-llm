@@ -1,0 +1,21 @@
+# Virtual environment
+myenv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs
+*.log
+assistant.log
+
+# Runtime data
+memory.json
+
+# Backups
+backups/
+
+# OS files
+.DS_Store
+Thumbs.db

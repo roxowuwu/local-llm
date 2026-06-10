@@ -1,0 +1,24 @@
+input_mode: text
+music_app: spotify
+browser: firefox
+preferred_search: google
+
+confirm_before:
+  - delete_file
+  - empty_trash
+  - shutdown
+  - change_system_setting
+  - restart          # add
+  - format_disk      # add
+
+spotify:
+  client_id: YOUR_ID
+  client_secret: YOUR_SECRET
+  redirect_uri: http://localhost:8888/callback
+
+weather:
+  api_key: YOUR_KEY
+  city: Delhi
+
+apps_dir: /usr/share/applications
+home_dir: /home/roxowuwu

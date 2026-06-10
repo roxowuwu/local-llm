@@ -1,0 +1,25 @@
+blocked_keywords:
+  - upgrade
+  - dist-upgrade
+  - full-upgrade
+  - mkfs
+  - dd
+  - shutdown
+  - reboot
+  - poweroff
+
+sensitive_keywords:
+  - rm
+  - apt install
+  - apt remove
+  - pip install
+  - sudo
+  - systemctl
+  - chmod
+  - chown
+
+plugins:
+  youtube: "xdg-open https://youtube.com"
+  google: "xdg-open https://google.com"
+  settings: "gnome-control-center"
+  vscode: "code"
